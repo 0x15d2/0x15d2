@@ -6,8 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0x15d3v2" alt="0x15d3v2" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin, Python**
-
+- 🌱 I’m currently learning **Kotlin, DenoJS**
+- 🌱 I’m currently not learning **Python**...
+  
 <p align="left">
 </p>
 
