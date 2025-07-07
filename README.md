@@ -1,7 +1,7 @@
 <img src="./giphy.gif" width="700"/>
 
 # 💫 About Me:
-🌱 I’m currently learning **Kotlin, DenoJS**<br>🌱 I’m currently not learning python.
+🌱 I’m currently learning **Kotlin, GoLang**<br>🌱 I’m currently not learning python.
 
 
 # 💻 Tech Stack:
